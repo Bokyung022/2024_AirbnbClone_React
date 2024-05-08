@@ -3,7 +3,7 @@ Authors: Bo Kyung Kim, Mark Sumoba, Michael Pinsonneault, Xing Huang, Sangkyu Ki
 
 ## Introduction
 
-Welcome to JustSell, a web-based Real Estate platform, enabling users to browse, search, and securely purchase properties online, while empowering realtors with comprehensive CRUD based property listing management capabilities.
+Our Airbnb Clone is a dynamic web platform crafted with cutting-edge technologies like React and Node.js. It's designed to revolutionize the way people find accommodations and connect with hosts worldwide. With its user-friendly interface, users can easily discover and book unique properties, and engage with hosts and fellow travelers, making their travel experiences unforgettable.
 
 ## Technology Stack
 
