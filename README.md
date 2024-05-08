@@ -59,7 +59,7 @@ Airbnb Clone Application uses the following additional libraries & APIs:
 
 ## Screenshot - Login
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Login.JPG" width="600"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Login.JPG" width="600"/>
 
 ## Screenshot - Home Page
 
