@@ -51,11 +51,11 @@ Airbnb Clone Application uses the following additional libraries & APIs:
 9. Review System:
    - Allow users to leave feedback and ratings for properties with display on property pages.
 10. Property Management Interface:
-   - Create an interface for property owners to manage listings.
-11. Profile Page:
-   - Enable users to view and edit their profiles.
+    - Create an interface for property owners to manage listings.
+12. Profile Page:
+    - Enable users to view and edit their profiles.
 12. Admin Dashboard:
-   - Develop a dashboard for administrators to monitor site activity and manage users and properties.
+    - Develop a dashboard for administrators to monitor site activity and manage users and properties.
 
 ## Screenshot - Login
 
