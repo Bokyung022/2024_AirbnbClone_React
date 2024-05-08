@@ -61,23 +61,51 @@ Airbnb Clone Application uses the following additional libraries & APIs:
 
 <img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Login.JPG" width="600"/>
 
-## Screenshot - Listings Page
+## Screenshot - Home Page
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Listings.JPG" width="600"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Home.JPG" width="700"/>
+
+## Screenshot - Listing Details
+
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Listing%20Detail(1).JPG" width="700"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Listing%20Detail(2).JPG" width="700"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Listing%20Detail(3).JPG" width="700"/>
+
+## Screenshot - Image Gallery
+
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Image%20Gallery.JPG" width="700"/>
+
+## Screenshot - Create Listing
+
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Become%20Host(1).JPG" width="700"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Become%20Host(2).JPG" width="700"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Become%20Host(4).JPG" width="700"/>
 
 ## Screenshot - Search/Filter
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Search.JPG" width="600"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Filter.JPG" width="700"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Filter(2).JPG" width="700"/>
 
-## Screenshot - Create/Edit Property
+## Screenshot - Booking
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Create%20Property.JPG" width="600"/>
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Edit%20Property.JPG" width="600"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Booking.JPG" width="350"/>
 
 ## Screenshot - Payment
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Checkout.JPG" width="700"/>
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Payment.JPG" alt="Screenshot 1" width="600"/>
+## Screenshot - Booking List
+
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/BookingList(1).JPG" width="700"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/BookingList(2).JPG" width="700"/>
+
+## Screenshot - Review Page
+
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Review.JPG" width="700"/>
+
+## Screenshot - Manage Listing
+
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Accommodation.JPG" width="700"/>
 
 ## Screenshot - Admin Page
 
-<img src="https://github.com/Bokyung022/2024_JustSell_React/blob/main/JustSell/assets/Admin.JPG" width="600"/>
+<img src="https://github.com/Bokyung022/2024_AirbnbClone_React/blob/main/Airbnb%20Clone/assets/Admin.JPG" width="700"/>
