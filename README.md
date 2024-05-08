@@ -33,7 +33,7 @@ Airbnb Clone Application uses the following additional libraries & APIs:
 ## Features
 
 1. User Authentication and Authorization:
-   - Implement secure user authentication and role-based access control using Auth0.
+   Implement secure user authentication and role-based access control using Auth0.
 2. Property Listing and Details:
    - Develop a visually appealing interface for property listings with individual pages for property details.
 3. S3 Integration:
